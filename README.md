@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Dreamgamer5000/Dreamgamer5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Dreamgamer5000 - insta
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i like to work on many things
--->-
+-
 
