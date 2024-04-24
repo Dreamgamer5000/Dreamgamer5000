@@ -1,7 +1,7 @@
 <h2 align="left" >Hey everyone, I answer to <b>Dream! </b> </h2>
 
 
-<code style="color : gold">Though technically, I'm Dreamgamer5000 online. Don't worry, it's a long story involving a rogue keyboard, a case of mistaken identity, and a gallon of pure milk. Let's just say things got a little... moo-vemental. 
+<code style="color : gold">Though technically, I'm Dreamgamer5000 online. Don't worry, it's a long story involving a rogue keyboard, a case of mistaken identity, and a gallon of pure milk. Let's just say things got a little... moo-vemental. My brother might tell you a different story, but trust me, this one's much more exciting. 
 </code>
 ###
 
