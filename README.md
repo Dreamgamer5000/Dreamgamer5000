@@ -1,5 +1,8 @@
-<h2 align="left">Hey !</h2>
+<h2 align="left" color ="yellow">Hey everyone, I answer to <b>Dream! </b> </h2>
 
+
+<code style="color : gold">Though technically, I'm Dreamgamer5000 online. Don't worry, it's a long story involving a rogue keyboard, a case of mistaken identity, and a gallon of pure milk. Let's just say things got a little... moo-vemental. 
+</code>
 ###
 
 <div align="center">
@@ -16,11 +19,7 @@
 
 ###
 
-<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemN3NGtwdzJrOWpxb3R3b3E5b3F0Ym9qdjVqcDNqYjZ1NWx3OHVrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="27" alt="css3 logo"  />
@@ -29,6 +28,12 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="27" alt="python logo"  />
 </div>
+
+###
+<div  align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemN3NGtwdzJrOWpxb3R3b3E5b3F0Ym9qdjVqcDNqYjZ1NWx3OHVrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif"  />
+</div>
+
 
 ###
 
