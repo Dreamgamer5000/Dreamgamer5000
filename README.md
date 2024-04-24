@@ -34,6 +34,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dreamgamer5000/Dreamgamer5000/output/snake.svg" alt="Snake animation" />
-
 ###
