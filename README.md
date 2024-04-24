@@ -1,4 +1,4 @@
-<h2 align="left" color ="yellow">Hey everyone, I answer to <b>Dream! </b> </h2>
+<h2 align="left" >Hey everyone, I answer to <b>Dream! </b> </h2>
 
 
 <code style="color : gold">Though technically, I'm Dreamgamer5000 online. Don't worry, it's a long story involving a rogue keyboard, a case of mistaken identity, and a gallon of pure milk. Let's just say things got a little... moo-vemental. 
